@@ -12,8 +12,9 @@ Below is a list of _my_ different (purpose specific) `HACKING.md` files:
 
 ## HACKING.md for Golang
 
-* [Golang Error Handling](https://github.com/reiver/hackingmd-go-error-handling)
-* [Golang Logging](https://github.com/reiver/hackingmd-go-logging)
+* [golang error handling](https://github.com/reiver/hackingmd-go-error-handling)
+* [golang imports](https://github.com/reiver/hackingmd-go-imports)
+* [golang logging](https://github.com/reiver/hackingmd-go-logging)
 
 -----
 
