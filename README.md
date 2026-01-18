@@ -13,7 +13,7 @@ Below is a list of _my_ different (purpose specific) `HACKING.md` files:
 ## HACKING.md for Golang
 
 * [golang error handling](https://github.com/reiver/hackingmd-go-error-handling)
-* [golang imports](https://github.com/reiver/hackingmd-go-imports)
+* [golang importing](https://github.com/reiver/hackingmd-go-importing)
 * [golang logging](https://github.com/reiver/hackingmd-go-logging)
 
 -----
