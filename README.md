@@ -4,12 +4,18 @@ A `HACKING.md` file is a document with technical information that provides guida
 
 I have creating `HACKING.md` files for a number of purposes.
 
+These purpose specific `HACKING.md` files can also be imported into an `AGENTS.md` file.
+
+-----
+
 Below is a list of _my_ different (purpose specific) `HACKING.md` files:
 
 ## HACKING.md for Golang
 
 * [Golang Error Handling](https://github.com/reiver/hackingmd-go-error-handling)
 * [Golang Logging](https://github.com/reiver/hackingmd-go-error-handling)
+
+-----
 
 ## Author
 
