@@ -2,7 +2,7 @@
 
 A `HACKING.md` file is a document with technical information that provides guidance for contributors to **understand**, and to **make changes** to a project.
 
-I have creating `HACKING.md` files for a number of purposes.
+I have created a number of `HACKING.md` files for a number of different purposes.
 
 These purpose specific `HACKING.md` files can also be imported into an `AGENTS.md` file.
 
